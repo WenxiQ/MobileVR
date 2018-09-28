@@ -1,2 +1,1 @@
-# Test
-eat the frog
+Useful MobileVR Scripts from VR Projects
